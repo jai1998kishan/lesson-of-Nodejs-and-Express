@@ -29,3 +29,5 @@ npm i express
 npm i -D nodemon
 npm i ejs
 npm i mongoose
+npm i cookie-parser
+npm i express-session

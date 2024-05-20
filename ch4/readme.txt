@@ -1,5 +1,5 @@
 1) npm init
-2) npm express
+2) npm i express
 3) npm i -D nodemon
 4) then writing a script in package.json in the scriptsection
     "dev": "nodemon app"
